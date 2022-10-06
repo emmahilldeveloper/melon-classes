@@ -1,7 +1,7 @@
 """Classes for melon orders."""
 
 class AbstractMelonOrder:
-    """An abstract base class that other Melon Orders inherit from."""
+    """An abstract base class that other Melon Orders inherit from!"""
 
     # the following 2 lines can be included, but are not necessary because 
     # AbstractMelonOrder should never be instantiated directly
